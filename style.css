@@ -1,0 +1,62 @@
+
+
+img{
+    width: 330PX;
+    height: 250px;
+    margin-left: 15%;
+    padding: 0%;
+border: solid 3px black;
+}
+
+#cute{
+    width: 250px;
+    height: 250px;  
+    margin-left: 40%; 
+    border: 6px solid black;
+    border-radius: 50%;
+}
+
+h1{
+    text-align: center;
+}
+P{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+div{
+    float:right;
+    margin-right: 130px;
+    padding: 20px;
+}
+.ol{
+    text-align: center;
+}
+.li{
+   
+   margin-right: 400px;
+}
+.link1{
+    margin: 150px;
+}
+.link2{
+    margin: 150px;
+}
+.link3{
+    margin: 150px;
+}
+   a{
+    text-align: center;
+   }
+    
+.CONTACT{
+    margin: 150px;
+}
+
+
+button{
+    background-color:white;
+    text-align: center;
+    margin-left: 140px;
+}
